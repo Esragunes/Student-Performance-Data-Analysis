@@ -4,6 +4,8 @@ This project focuses on analyzing student performance data to understand the fac
 The main objective is to build a machine learning model that predicts whether a student will pass or fail, based on behavioral and academic features.
 The project follows a complete data science workflow, including data exploration, preprocessing, handling class imbalance, and model evaluation.
 
+---
+
 ## Dataset Description
 The dataset contains the following features:
 * student_id
@@ -91,9 +93,9 @@ Perform feature importance analysis
 Apply resampling techniques (SMOTE)
 Hyperparameter tuning
 
+---
+
 ## Author
 Esra Güneş
 Computer Engineering Student
 
-Esra Güneş
-Computer Engineering Student
